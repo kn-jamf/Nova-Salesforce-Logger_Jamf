@@ -14,5 +14,4 @@
     <tabs>Logging_Admin</tabs>
     <tabs>Log_Entry__c</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>Logging_Admin_UtilityBar</utilityBar>
 </CustomApplication>
